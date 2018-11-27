@@ -1,0 +1,12 @@
+Task: 
+Let the user input a word (W)
+If the word is not found in the dictionary, print “Not found”. 
+Otherwise , report:
+Pronunciation : the pronunciation of the word W (as given in the dictionary),
+Identical : other words from the dictionary with the same pronunciation as W,
+Add phoneme : words that can be obtained from W by adding one phoneme,
+Remove phoneme : words that can be obtained from W by removing one phoneme,
+Replace phoneme : words that can be obtained from W by replacing one phoneme.
+
+Definition:
+Phoneme- a unit of sound that causes words to be pronounced differently and can distinguish between two words. 
